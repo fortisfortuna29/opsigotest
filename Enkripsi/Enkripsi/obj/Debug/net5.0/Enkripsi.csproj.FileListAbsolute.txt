@@ -1,0 +1,16 @@
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\bin\Debug\net5.0\Enkripsi.exe
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\bin\Debug\net5.0\Enkripsi.deps.json
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\bin\Debug\net5.0\Enkripsi.runtimeconfig.json
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\bin\Debug\net5.0\Enkripsi.runtimeconfig.dev.json
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\bin\Debug\net5.0\Enkripsi.dll
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\bin\Debug\net5.0\ref\Enkripsi.dll
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\bin\Debug\net5.0\Enkripsi.pdb
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.csprojAssemblyReference.cache
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.AssemblyInfoInputs.cache
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.AssemblyInfo.cs
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.csproj.CoreCompileInputs.cache
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.dll
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\ref\Enkripsi.dll
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.pdb
+D:\projek\frelance\opsigotest\Enkripsi\Enkripsi\obj\Debug\net5.0\Enkripsi.genruntimeconfig.cache

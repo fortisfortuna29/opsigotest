@@ -1,0 +1,16 @@
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\bin\Debug\net5.0\SusunanAngka.exe
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\bin\Debug\net5.0\SusunanAngka.deps.json
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\bin\Debug\net5.0\SusunanAngka.runtimeconfig.json
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\bin\Debug\net5.0\SusunanAngka.runtimeconfig.dev.json
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\bin\Debug\net5.0\SusunanAngka.dll
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\bin\Debug\net5.0\ref\SusunanAngka.dll
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\bin\Debug\net5.0\SusunanAngka.pdb
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.csprojAssemblyReference.cache
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.AssemblyInfoInputs.cache
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.AssemblyInfo.cs
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.csproj.CoreCompileInputs.cache
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.dll
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\ref\SusunanAngka.dll
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.pdb
+D:\projek\frelance\opsigotest\SusunanAngka\SusunanAngka\obj\Debug\net5.0\SusunanAngka.genruntimeconfig.cache
